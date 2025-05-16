@@ -1,0 +1,85 @@
+# Seção 01 – Apresentação do Curso
+
+## 🎯 Objetivo
+
+Esta seção apresenta a estrutura geral do curso, as ferramentas que serão utilizadas, os materiais disponíveis para download e os principais tópicos abordados.
+
+---
+
+## 👨‍🏫 Sobre o Curso
+
+- Formação completa em Ciência de Dados com **R e Python**
+- **+300 tutoriais** divididos em **50+ seções**
+- **+200 scripts** em notebooks (Python e R)
+- **+200 testes** de múltipla escolha
+- Slides em PDF, atividades práticas e exercícios comentados
+- Curso atualizado constantemente com os temas mais relevantes
+
+---
+
+## 👨‍🏫 Professor
+
+- **Fernando Amaral**
+- Experiência prática e didática aplicada ao mercado de trabalho
+- Curso com abordagem acessível para iniciantes
+
+---
+
+## 🛠️ Ferramentas Utilizadas
+
+- **Python** com Jupyter Labs (Anaconda ou Google Colab)
+- **R** com RStudio (Notebooks)
+- **PostgreSQL**
+- **MongoDB**
+- **Power BI**
+- **Tableau**
+- **Amazon AWS**
+
+---
+
+## 📁 Materiais para Download
+
+- Códigos-fonte (Python e R)
+- Arquivos com dados de exemplo
+- Slides em PDF
+- Testes de múltipla escolha
+- Atividades práticas
+
+📌 **Importante**: mantenha os arquivos de dados e código na **mesma pasta** para execução correta dos notebooks.
+
+---
+
+## 🧭 Estrutura Geral do Curso (exemplos de seções)
+
+| Nº | Tópico                          |
+|----|---------------------------------|
+| 02 | R: Configuração do Ambiente     |
+| 03 | Python: Configuração do Ambiente|
+| 04 | Introdução ao R                |
+| 06 | Introdução ao Python           |
+| 08 | Limpeza e Tratamento de Dados  |
+| 11 | Visualização de Dados e Dashboards |
+| 14 | Estatística I                  |
+| 17 | Estatística II                 |
+| 20 | Regressão Linear               |
+| 26 | Séries Temporais               |
+| 29 | Machine Learning               |
+| 32 | Deep Learning e Redes Neurais  |
+| 35 | LLMs e Agentes de IA           |
+| 41 | Banco de Dados e SQL           |
+| 43 | NoSQL com MongoDB              |
+| 47 | Spark com Databricks           |
+| 50–52 | Extras: Power BI, Tableau, Big Data |
+
+---
+
+## ✅ Conclusão da Seção
+
+Você agora está familiarizado com:
+
+- O escopo completo da formação
+- As ferramentas que serão utilizadas
+- Os materiais disponíveis para baixar e utilizar
+- A metodologia prática e acessível do curso
+
+Pronto(a) para seguir para a Seção 02? 🎓
